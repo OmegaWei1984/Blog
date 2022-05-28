@@ -1,0 +1,4 @@
+[submodule "themes/one-paper"]
+	path = themes/one-paper
+	url = git@github.com:OmegaWei1984/hexo-theme-one-paper.git
+	branch = omega1984
