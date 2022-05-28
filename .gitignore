@@ -10,4 +10,3 @@ coverage/
 .tmp*
 .vscode
 db.json
-themes/*
